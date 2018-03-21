@@ -3,7 +3,7 @@
 # Monitor hardware health of Cisco UCS servers
 # Tested on C220 servers
 #
-# Aaron Largent - theunixguys.com
+# theunixguys.com
 #
 #################################
 #
